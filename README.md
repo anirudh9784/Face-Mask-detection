@@ -13,7 +13,8 @@ Since we are classifying video feed in 3 Categories:<br>
     3. Thank you for wearing Mask<br><br>
 Firstly we used a CNN model made from Scratch on out custom made dataset. Since Dataset is very less so Model was finding it dificult to do feature extraction Succesfully.<br>
 So we used a Pretrained model like (VGG16 , ResNet, etc) which gave us satisfactory Result
-
+# Data
+Made a Custom Data in various Lighting Conditions and angles. To make Model more robust more data of different persons are needed.<br>
 # Note
 [Since Dataset was not available so dataset includes my faces wearing mask in different Position and Lightining Conditions and may need a little Callibration ( an automatic cllibration wont work unless we have good amount of data ) ]
 
