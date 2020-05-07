@@ -1,5 +1,6 @@
 # Face-Mask-detection
 Open run.py to start Detection<br>
+trainm.py is CNN model trained from Scratch<br>
 This Repo is Demonstration of how we can use some Computer Vision with Deep Learning to make a Face Mask Detection which can be used on Entry Gates of Companies or Public Transport or Simply used to Provide some services only to those wearing mask like Ticket Vending Machine, ATM, Etc. 
 
 # Face Detection
